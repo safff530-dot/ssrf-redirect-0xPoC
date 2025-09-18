@@ -1,7 +1,0 @@
-/localhost   http://127.0.0.1   302
-/meta        http://169.254.169.254   302
-/hex         http://0x7f000001   302
-/decimal     http://2130706433   302
-/nip         http://127.0.0.1.nip.io   302
-/test        https://example.com   302
-
